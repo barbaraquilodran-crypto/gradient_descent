@@ -1,1 +1,1 @@
-# GRADIENT-DESCENT
+# gradient_descent
